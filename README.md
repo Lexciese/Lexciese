@@ -1,9 +1,11 @@
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lexciese&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexciese&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🌱About
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhoM2VzYW5kaWU4bnlubzI4ZHR5dzdzcmxqc2V6MGllOTRmN3U1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JPcmNWh80RM7f74dOn/giphy.gif" width="300px" align="right">
+
+- Electronics and Instrumentation undergrad student @ Universitas Gadjah Mada
+- Humanoid motion programmer at Altair Gadjah Mada Robotic Team 
+- Contact:
+  - Email: falahnzk@gmail.com
+  - Linkedin: [www.linkedin.com/in/falahnaufalzaki/](https://www.linkedin.com/in/falahnaufalzaki/)
+
+I am passionate about Software Engineering, Robotics, and Control Systems and am actively learning about these fields.
