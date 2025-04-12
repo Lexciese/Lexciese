@@ -6,6 +6,6 @@
 - Humanoid motion programmer at Altair Gadjah Mada Robotic Team 
 - Contact:
   - Email: falahnzk@gmail.com
-  - Linkedin: [www.linkedin.com/in/falahnaufalzaki/](https://www.linkedin.com/in/falahnaufalzaki/)
+  - Linkedin: [www.linkedin.com/in/falahnaufalzaki/](https://www.linkedin.com/in/fnzaki/)
 
 I am passionate about Software Engineering, Robotics, and Control Systems and am actively learning about these fields.
