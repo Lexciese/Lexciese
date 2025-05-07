@@ -8,4 +8,6 @@
   - Email: falahnzk@gmail.com
   - Linkedin: [www.linkedin.com/in/falahnzk/](https://www.linkedin.com/in/falahnzk/)
 
+Or know me more at https://lexciese.github.io/
+
 I am passionate about Software Engineering, Robotics, and Control Systems and am actively learning about these fields.
