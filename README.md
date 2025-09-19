@@ -2,7 +2,6 @@
 ### 🌱About
 <div style="float: right; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhoM2VzYW5kaWU4bnlubzI4ZHR5dzdzcmxqc2V6MGllOTRmN3U1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JPcmNWh80RM7f74dOn/giphy.gif" width="300px">
-  <img src="https://c.tenor.com/uKelfiTDlWAAAAAC/tenor.gif" width="170px">
 </div>
 
 
